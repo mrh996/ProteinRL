@@ -1,7 +1,7 @@
 
 Code for paper ThermoRL:Structure-Aware Reinforcement Learning for Protein Mutation Design to Enhance Thermostability
 # ThermoRL
-
+Dataset can be downloaded from [text](https://1drv.ms/f/c/5a2f8707b0d44f0d/IgCZ8pcFHLg6T75I2y6eZFE3Adf6ex0B8aL5ADDbm3l1wlw?e=bKB7kM)
 # Train the surrogate model
 
 In the surrogate file, set the environment from environment.yml
